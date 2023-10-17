@@ -1,4 +1,4 @@
-# Projeto: “Pacientes Diabéticos”  
+# Projeto: “Diabetes”  
 
 ### Sobre o conjunto de dados:  
 
